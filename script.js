@@ -1,4 +1,3 @@
-```javascript
 let cart = [];
 let total = 0;
 
@@ -66,4 +65,4 @@ document.addEventListener("mousemove", (event) => {
             `rotate(-8deg) translate(${x}px, ${y}px)`;
     }
 });
-```
+
